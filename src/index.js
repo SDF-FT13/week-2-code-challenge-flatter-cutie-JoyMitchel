@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-    const baseUrl = "http://localhost:3000";
+    const baseUrl = "https://vercel.com/new/joymitchels-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=week-2-code-challenge-flatter-cutie-joy-mitchel-y2x5-gxhkcxqb6.vercel.app&projectName=week-2-code-challenge-flatter-cutie-joy-mitchel-y2x5&s=https%3A%2F%2Fgithub.com%2FJoyMitchel%2Fweek-2-code-challenge-flatter-cutie-JoyMitchel&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1";
     const characterBar = document.getElementById("character-bar");
     const characterName = document.getElementById("name");
     const characterImage = document.getElementById("image");
